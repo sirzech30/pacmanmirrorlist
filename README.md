@@ -1,0 +1,2 @@
+# pacmanmirrorlist
+my arch pacmanmirrorlist
