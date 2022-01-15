@@ -1,0 +1,46 @@
+## Indonesia
+Server = http://mirror.cloudweeb.com/archlinux/$repo/os/$arch
+Server = http://mirror.faizuladib.com/archlinux/$repo/os/$arch
+Server = http://mirror.gi.co.id/archlinux/$repo/os/$arch
+Server = https://mirror.gi.co.id/archlinux/$repo/os/$arch
+Server = http://vpsmurah.jagoanhosting.com/archlinux/$repo/os/$arch
+Server = https://vpsmurah.jagoanhosting.com/archlinux/$repo/os/$arch
+Server = http://mirror.labkom.id/archlinux/$repo/os/$arch
+Server = http://mirror.papua.go.id/archlinux/$repo/os/$arch
+Server = https://mirror.papua.go.id/archlinux/$repo/os/$arch
+Server = http://mirror.poliwangi.ac.id/archlinux/$repo/os/$arch
+Server = http://mirror.repository.id/archlinux/$repo/os/$arch
+Server = https://mirror.repository.id/archlinux/$repo/os/$arch
+Server = http://suro.ubaya.ac.id/archlinux/$repo/os/$arch
+Server = http://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
+Server = https://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
+
+## Australia
+Server = https://mirror.aarnet.edu.au/pub/archlinux/$repo/os/$arch
+Server = http://archlinux.mirror.digitalpacific.com.au/$repo/os/$arch
+Server = https://archlinux.mirror.digitalpacific.com.au/$repo/os/$arch
+Server = http://ftp.iinet.net.au/pub/archlinux/$repo/os/$arch
+Server = http://mirror.internode.on.net/pub/archlinux/$repo/os/$arch
+Server = http://arch.lucassymons.net/$repo/os/$arch
+Server = https://arch.lucassymons.net/$repo/os/$arch
+Server = http://syd.mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = https://syd.mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = http://ftp.swin.edu.au/archlinux/$repo/os/$arch
+
+## Worldwide
+Server = http://mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = https://mirror.rackspace.com/archlinux/$repo/os/$arch
+
+## Singapore
+Server = http://mirror.0x.sg/archlinux/$repo/os/$arch
+Server = https://mirror.0x.sg/archlinux/$repo/os/$arch
+Server = http://mirror.aktkn.sg/archlinux/$repo/os/$arch
+Server = https://mirror.aktkn.sg/archlinux/$repo/os/$arch
+Server = https://download.nus.edu.sg/mirror/archlinux/$repo/os/$arch
+Server = http://mirror.guillaumea.fr/archlinux/$repo/os/$arch
+Server = https://mirror.guillaumea.fr/archlinux/$repo/os/$arch
+Server = http://mirror.jingk.ai/archlinux/$repo/os/$arch
+Server = https://mirror.jingk.ai/archlinux/$repo/os/$arch
+Server = http://ossmirror.mycloud.services/os/linux/archlinux/$repo/os/$arch
+Server = http://mirror.sg.gs/archlinux/$repo/os/$arch
+Server = https://mirror.sg.gs/archlinux/$repo/os/$arch
